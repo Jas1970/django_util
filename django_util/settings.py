@@ -145,5 +145,6 @@ EMAIL_HOST_PASSOWRD = 'znefttapfsyeefaa'
 #
 # Admin 16/08/2020
 # Jaswinder123  admin321
+# users
 # testuser123   admin321
-# 
+# Jaswinder_singh  admin321
